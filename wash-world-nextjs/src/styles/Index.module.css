@@ -1,0 +1,14 @@
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.buttonsGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+    column-gap: 10px;
+    row-gap: 15px;
+}

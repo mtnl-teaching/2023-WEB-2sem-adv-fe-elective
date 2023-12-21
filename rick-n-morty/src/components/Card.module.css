@@ -1,0 +1,34 @@
+.card {
+    height: 240px;
+    width: 240px;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px rgba(0, 176, 200, 0.25)
+}
+
+
+.img {
+    width: 240px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #49454F;
+}
+
+.specie {
+    color: rgba(88, 88, 88, 0.6);
+}
+
+.cardDrawer {
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px;
+}

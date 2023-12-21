@@ -1,0 +1,6 @@
+.buttonDiv {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 80px 0 50px 0;
+}
